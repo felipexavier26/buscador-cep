@@ -11,7 +11,7 @@
 <li>Interface simples e rápida.</li>
 
 <h1>Link do Projeto</h1>
-<p>https://buscador-cep-flame-eta.vercel.app/</p>
+<a href="https://buscador-cep-flame-eta.vercel.app" rel="nofollow"><strong>➥ Projeto</strong></a></p>
 
 <h1>Tecnologias Utilizadas</h1>
 <li><strong>React</strong>— Biblioteca JavaScript para construção da interface do usuário.</li>
