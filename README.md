@@ -19,3 +19,10 @@
 <li><strong>Axios</strong>— Utilizado para fazer requisições HTTP.</li>
 <li><strong>API ViaCEP</strong>— API pública utilizada para obter os dados do endereço a partir do CEP.</li>
 <li><strong>CSS</strong>— Estilização da aplicação.</li>
+
+
+
+
+<div align="center">
+![image](https://github.com/user-attachments/assets/aa2c9899-1e69-4aa7-be1d-9a1481219911)
+</div>
